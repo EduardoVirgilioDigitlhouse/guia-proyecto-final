@@ -31,7 +31,6 @@ ___
         ```
         Dedicado a la Docencia desde el año 1991. Venezolano. Interesado en el Cloud Computing,
         como en la Seguridad Informatica.
-    ___
 ___
 
 + ## ___Wireframes___
