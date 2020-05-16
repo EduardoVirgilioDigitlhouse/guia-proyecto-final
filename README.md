@@ -37,7 +37,7 @@ ___
     - [___Netflix___](https://www.netflix.com/ar/)
         ![Netflix Pelicula](https://miro.medium.com/max/3200/0*TNPMA2YfqilwqiZ5.)
     - [___CineAR Play___](https://play.cine.ar/bienvenida/)
-        ![Captura](/Capturas/Captura.png)
+        ![Captura](/Capturas/Captura.PNG)
 ___  
 
 + ## ___Wireframes___
