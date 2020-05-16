@@ -33,6 +33,13 @@ ___
         como en la Seguridad Informatica.
 ___
 
++ ## ___Referentes___
+    - [___Netflix___](https://www.netflix.com/ar/)
+        ![Netflix Pelicula](https://miro.medium.com/max/3200/0*TNPMA2YfqilwqiZ5.)
+    - [___CineAR Play___](https://play.cine.ar/bienvenida/)
+        ![Captura](/Capturas/Captura.png)
+___  
+
 + ## ___Wireframes___
     - [Para que son?](https://www.lucidchart.com/pages/es/que-es-un-wireframe-para-un-sitio-web#section_1)
     - [Que son los Mockups](https://es.ryte.com/wiki/Mockup)
