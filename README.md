@@ -36,8 +36,14 @@ ___
 + ## ___Referentes___
     - [___Netflix___](https://www.netflix.com/ar/)
         ![Netflix Pelicula](https://miro.medium.com/max/3200/0*TNPMA2YfqilwqiZ5.)
+        ```
+        Detalle de la pelicula
+    ___
+
     - [___CineAR Play___](https://play.cine.ar/bienvenida/)
         ![Captura](/Capturas/Captura.PNG)
+        ```
+        Menu Desplegable
 ___  
 
 + ## ___Wireframes___
