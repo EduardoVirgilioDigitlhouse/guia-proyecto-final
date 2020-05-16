@@ -89,6 +89,6 @@ ___
     | Clasificación | Caracteriztica | Ejemplo | 
     | ------------- | ------------- | ------------- |
     | Logotipo | Solamente Tipografico | [Ejemplo](https://logodownload.org/wp-content/uploads/2014/04/coca-cola-logo-1.png) |
-    | Isotipo | Solamente Pictograma | [Ejemplo](https://userscontent2.emaze.com/images/00ca41ad-753c-43dc-9d67-da596258315a/422641b3-82d8-4e7e-9fc0-dd250bafabe1) |
+    | Isotipo | Solamente Pictograma | [Ejemplo](https://i.pinimg.com/originals/1c/aa/03/1caa032c47f63d50902b9d34492e1303.jpg) |
     | Isologotipo | Tipografia y Pictograma por separado | [Ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/1200px-Spotify_logo_with_text.svg.png) |
     | Imagotipo | Tipografia y pictograma combinados | [Ejemplo](https://1000marcas.net/wp-content/uploads/2019/12/Burger-King-Logo.png) | 
