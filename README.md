@@ -46,7 +46,7 @@ ___
 ___   
 
 + ## ___Paleta de colores___
-    - [___Basado en la siguiente___](https://coolors.co/e63946-f1faee-a8dadc-457b9d-1d3557)
+    - __Basado en la siguiente:__ [___Link___](https://coolors.co/e63946-f1faee-a8dadc-457b9d-1d3557)
         1. ![#e63946](https://via.placeholder.com/15/e63946/000000?text=+) `#e63946`
         2. ![#f1faee](https://via.placeholder.com/15/f1faee/000000?text=+) `#f1faee`
         3. ![#a8dadc](https://via.placeholder.com/15/a8dadc/000000?text=+) `#a8dadc`
